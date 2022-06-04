@@ -11,6 +11,7 @@ You need to have Node.JS 16+
 git clone https://github.com/blackknight683/tickety-v2
 cd tickety-v2
 npm i
+npm i discord.js
 ``````
 
 ## Configuraton
